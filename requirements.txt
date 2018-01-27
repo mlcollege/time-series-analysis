@@ -1,0 +1,11 @@
+jupyter
+ipywidgets
+matplotlib
+numpy
+scipy
+scikit-learn
+pandas
+tensorflow
+keras
+statsmodels
+h5py
