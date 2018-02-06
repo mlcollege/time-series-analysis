@@ -47,5 +47,6 @@ RUN pip3 install -U setuptools
 RUN pip3 install -r /requirements.txt
 RUN jupyter nbextension enable --py widgetsnbextension
 
+COPY ./jupyter/custom $HOME/.jupyter/custom/
 COPY run.sh /
 ENTRYPOINT ./run.sh

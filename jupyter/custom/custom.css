@@ -1,0 +1,12 @@
+.CodeMirror-code, .CodeMirror-dialog, .CodeMirror-dialog .CodeMirror-search-field, .terminal-app .terminal {
+    font-family: Consolas, monospace;
+    font-size: 11pt;
+}
+
+.container {
+    width: 90%;
+}
+
+pre {
+  font-family: Consolas, monospace;
+}
