@@ -1,6 +1,7 @@
 jupyter
 ipywidgets
 matplotlib
+mpl_finance
 numpy
 scipy
 scikit-learn
@@ -9,3 +10,4 @@ tensorflow
 keras
 statsmodels
 h5py
+tqdm
